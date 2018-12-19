@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OCPLibrary\OCPLibrary.csproj">
-      <Project>{9CC28A4F-123B-424F-95DD-273994AB6D35}</Project>
+      <Project>{8df5292d-d205-4b94-842a-8ad27abf002d}</Project>
       <Name>OCPLibrary</Name>
     </ProjectReference>
   </ItemGroup>
